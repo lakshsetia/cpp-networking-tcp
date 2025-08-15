@@ -1,0 +1,26 @@
+[
+{
+  "directory": "G:/dev/public/cpp-networking/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/server.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\server.dir\\server\\server.cpp.obj -c G:\\dev\\public\\cpp-networking\\server\\server.cpp",
+  "file": "G:/dev/public/cpp-networking/server/server.cpp",
+  "output": "CMakeFiles/server.dir/server/server.cpp.obj"
+},
+{
+  "directory": "G:/dev/public/cpp-networking/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/client.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\client.dir\\client\\client.cpp.obj -c G:\\dev\\public\\cpp-networking\\client\\client.cpp",
+  "file": "G:/dev/public/cpp-networking/client/client.cpp",
+  "output": "CMakeFiles/client.dir/client/client.cpp.obj"
+},
+{
+  "directory": "G:/dev/public/cpp-networking/build/utils",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/utils.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\utils.dir\\Socket.cpp.obj -c G:\\dev\\public\\cpp-networking\\utils\\Socket.cpp",
+  "file": "G:/dev/public/cpp-networking/utils/Socket.cpp",
+  "output": "utils/CMakeFiles/utils.dir/Socket.cpp.obj"
+},
+{
+  "directory": "G:/dev/public/cpp-networking/build/utils",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/utils.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\utils.dir\\WSA.cpp.obj -c G:\\dev\\public\\cpp-networking\\utils\\WSA.cpp",
+  "file": "G:/dev/public/cpp-networking/utils/WSA.cpp",
+  "output": "utils/CMakeFiles/utils.dir/WSA.cpp.obj"
+}
+]

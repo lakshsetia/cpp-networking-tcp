@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libutils.a CMakeFiles/utils.dir/Socket.cpp.obj CMakeFiles/utils.dir/WSA.cpp.obj
+C:\mingw64\bin\ranlib.exe libutils.a

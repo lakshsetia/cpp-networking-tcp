@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"G:/dev/public/cpp-networking/build/cmake_install.cmake",
+		"G:/dev/public/cpp-networking/build/utils/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
